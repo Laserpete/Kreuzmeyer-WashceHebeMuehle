@@ -1,4 +1,4 @@
-# Kreuzmeyer-Wasche-Hebe-M-hle
+# Kreuzmeyer-Wasche-Hebe-Mühle
 
 "If we can't fix it we're doing the work by hand." - the farmer's predicament and a saying in every language through the ages.
 
